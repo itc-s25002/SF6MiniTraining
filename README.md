@@ -261,11 +261,8 @@ const frames = Math.round(reactionTime * 60 / 1000);
 その後、実際の利用状況や必要性に応じて、コントローラー入力取得やゲーム連携機能を追加する。
 
 ## 11.画面設計書
-ホーム画面
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/kvWuaVsln2NptJ18btFy1e/%E7%84%A1%E9%A1%8C?node-id=5-10358&embed-host=share" allowfullscreen></iframe>
+![ホーム画面](images/screenDesign/ホーム・アプリ画面.png)
 
-練習画面
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/kvWuaVsln2NptJ18btFy1e/%E7%84%A1%E9%A1%8C?node-id=5-10427&embed-host=share" allowfullscreen></iframe>
+![練習画面](images/screenDesign/練習・アプリ画面.png)
 
-リザルト画面
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/kvWuaVsln2NptJ18btFy1e/%E7%84%A1%E9%A1%8C?node-id=5-10478&embed-host=share" allowfullscreen></iframe>
+![リザルト画面](images/screenDesign/結果・アプリ画面.png)
